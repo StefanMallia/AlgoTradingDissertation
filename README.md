@@ -1,5 +1,6 @@
 # AlgoTradingDissertation
 An optimization algorithm for backtesting trading strategies
+
 exhaustivemov.m -- the brute force approach to optimizing parameters
 newmovopt.m -- the optimization algorithm written for Finance dissertation
 
